@@ -1,0 +1,23 @@
+#lock {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/lock.svg");
+}
+
+#logout {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/logout.svg");
+}
+
+#suspend {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/suspend.svg");
+}
+
+#hibernate {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/hibernate.svg");
+}
+
+#shutdown {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/shutdown.svg");
+}
+
+#reboot {
+    background-image: url("~/.config/wlogout/catppuccin/icons/wlogout/mocha/reboot.svg");
+}
